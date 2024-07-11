@@ -234,6 +234,18 @@ body {
 
     
 }
+.video_border {
+    width: 1140px;
+
+    height: 614px;
+
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .inspiration {
     width: 1140px;
     height: 777px;
