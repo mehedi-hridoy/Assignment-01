@@ -289,7 +289,7 @@ body {
     height: 299px;
     width: 364px;
     padding: 40px;
-    margin: 0px 24px;
+    margin: 0px 8px;
     text-align: left;
     
 
@@ -297,7 +297,7 @@ body {
 .box2 {
     border-radius: 16px;
     padding: 40px;
-    margin: 0px 24px;
+    margin: 0px 8px;
     background: rgba(0, 76, 232, 0.05);
     height: 299px;
     width: 364px;
@@ -306,7 +306,7 @@ body {
 .box3 {
     border-radius: 16px;
     padding: 40px;
-    margin: 0px 24px;
+    margin: 0px 8px;
     background: rgba(255, 223, 0, 0.05);
     height: 299px;
     width: 364px;
